@@ -1,0 +1,24 @@
+textarea {
+  width: 400px;
+
+  font-size: 1rem;
+  border: 1px solid grey;
+  border-radius: 10px;
+  resize: vertical;
+  background-color: rgb(251, 253, 244);
+  box-sizing: border-box;
+  padding: 0.65rem 0.5rem;
+  outline: none;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+label.checkbox {
+  font-weight: normal;
+}
+
+button[type="submit"] {
+  margin-top: 1rem;
+}

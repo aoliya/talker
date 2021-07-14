@@ -1,0 +1,13 @@
+.headerBox {
+  display: flex;
+}
+
+.loginBlock {
+  margin-left: auto;
+  padding-right: 30px;
+}
+.loginName {
+  margin-left: auto;
+  padding-right: 30px;
+  font-size: 1em !important;
+}

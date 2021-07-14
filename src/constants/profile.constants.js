@@ -1,0 +1,5 @@
+export const ADD_POST = 'ADD_POST';
+export const UPDATE_NEW_POST_TEXT = 'UPDATE_NEW_POST_TEXT';
+export const SET_USER_PROFILE = 'SET_USER_PROFILE';
+export const SET_USER_STATUS = 'SET_USER_STATUS';
+export const UPDATE_PHOTO = 'UPDATE_PHOTO'

@@ -1,0 +1,57 @@
+.card {
+  background: #fcf5c7;
+  min-height: 650px;
+}
+.cardBody {
+  display: flex;
+  padding-top: 20px;
+  margin-left: 20px;
+  min-width: 400px;
+  width: 90%;
+  min-height: 300px;
+  border-radius: 15px;
+}
+
+.leftBox {
+  display: flex;
+  flex-direction: column;
+  background: #595959;
+  width: 25%;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.imageBox {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.imageProfile {
+  width: 50%;
+  border-radius: 50%;
+}
+.editBox {
+  border-top: 1px solid rgb(196, 194, 194);
+  border-bottom: 1px solid rgb(196, 194, 194);
+  padding: 12px 12px 12px 0;
+  margin-bottom: 15px;
+}
+.infoBox {
+  display: flex;
+  background: white;
+  width: 75%;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  padding-bottom: 30px;
+}
+.personalInfo {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+.aboutMe {
+  margin-top: 30px;
+}
+.iconsBox {
+  width: 15%;
+  padding-top: 40px;
+}
